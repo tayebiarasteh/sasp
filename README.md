@@ -12,11 +12,14 @@ This project contains the programming exercises of the Speech and Audio Signal P
 
 * The exercises are done in `MATLAB`.
 
-* Every exercise contains a `.pdf` script file which explains the exercise's protocol, and a `intermediate.m` file which contains the solutions for all the required exerimentations.
+* Every exercise contains a `.pdf` script file which explains the exercise's protocol.
 
 
 #### Overview of the project:
 
 - **Exercise 1**: Introduces the simulation language within a basic discrete-time
 signal processing context and goes on to the illustration of some important fundamentals
-on the representation of statistical signals. Linear mean, variance, white noise, normal distribution, ACF, PSD, basic filtering, pdf...
+on the representation of statistical signals. Linear mean, variance, white noise, normal distribution, ACF, PSD, basic filtering, pdf... .
+`intermediate.m` file contains the solutions for all the required exerimentations.
+
+- **Exercise 2**: Analysis of speech and audio signals and basic estimation methods. Stationarity, Ergodicity, Long-Term and Short-Time Analysis of ACF and PSD, Periodogram, Welch and Bartlett methods, Pitch estimation.
