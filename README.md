@@ -17,9 +17,13 @@ This project contains the programming exercises of the Speech and Audio Signal P
 
 #### Overview of the project:
 
-- **Exercise 1**: Introduces the simulation language within a basic discrete-time
+- **Representation of Signals 1**: Introduces the simulation language within a basic discrete-time
 signal processing context and goes on to the illustration of some important fundamentals
 on the representation of statistical signals. Linear mean, variance, white noise, normal distribution, ACF, PSD, basic filtering, pdf... .
 `intermediate.m` file contains the solutions for all the required exerimentations.
 
-- **Exercise 2**: Analysis of speech and audio signals and basic estimation methods. Stationarity, Ergodicity, Long-Term and Short-Time Analysis of ACF and PSD, Periodogram, Welch and Bartlett methods, Pitch estimation.
+- **Representation of Speech and Audio Signals**: Analysis of speech and audio signals and basic estimation methods. Stationarity, Ergodicity, Long-Term and Short-Time Analysis of ACF and PSD, Periodogram, Welch and Bartlett methods, Pitch estimation.
+
+- **Speech Coding**: Linear prediction: forward vs. backward, Psychoacoustics: the foundation for audio coding (e.g. MPEG audio).
+
+- **ASR 1, Fundamentals and Feature Extraction**:
