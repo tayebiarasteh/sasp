@@ -3,7 +3,8 @@
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-This project contains the programming exercises of the Speech and Audio Signal Processing course (SS20, Prof. Dr.-Ing. Walter Kellermann) offered by the [Chair of Multimedia Communications and Signal Processing (LMS)](https://www.lms.tf.fau.eu/) of the [Electrical Engineering Department](https://www.eei.tf.fau.de/) at [University of Erlangen-Nuremberg (FAU)](https://www.fau.eu/).
+This repository contains the programming exercises of the Speech and Audio Signal Processing course (SS20, Prof. Dr.-Ing. Walter Kellermann) 
+offered by the [Chair of Multimedia Communications and Signal Processing (LMS)](https://www.lms.tf.fau.eu/) of the [Electrical Engineering Department](https://www.eei.tf.fau.de/) at [University of Erlangen-Nuremberg (FAU)](https://www.fau.eu/).
 
 
 ## Context
@@ -14,6 +15,7 @@ This project contains the programming exercises of the Speech and Audio Signal P
 
 * Every exercise contains a `.pdf` script file which explains the exercise's protocol.
 
+* All the source files are provided by the [Chair of Multimedia Communications and Signal Processing (LMS)](https://www.lms.tf.fau.eu/).
 
 #### Overview of the project:
 
@@ -26,8 +28,8 @@ on the representation of statistical signals. Linear mean, variance, white noise
 
 - **Speech Coding**: Linear prediction: forward vs. backward, Psychoacoustics: the foundation for audio coding (e.g. MPEG audio).
 
-- **ASR 1-Fundamentals and Feature Extraction**:
+- **ASR 1-Fundamentals and Feature Extraction**: in progress...
 
-- **ASR 2-Hidden Markov Models**:
+- **ASR 2-Hidden Markov Models**: in progress...
 
-- **Acoustic Human-Machine Interface**:
+- **Acoustic Human-Machine Interface**: in progress...
