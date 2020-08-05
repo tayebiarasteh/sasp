@@ -17,7 +17,7 @@ This project contains the programming exercises of the Speech and Audio Signal P
 
 #### Overview of the project:
 
-- **Representation of Signals 1**: Introduces the simulation language within a basic discrete-time
+- **Representation of Signals-General**: Introduces the simulation language within a basic discrete-time
 signal processing context and goes on to the illustration of some important fundamentals
 on the representation of statistical signals. Linear mean, variance, white noise, normal distribution, ACF, PSD, basic filtering, pdf... .
 `intermediate.m` file contains the solutions for all the required exerimentations.
@@ -26,4 +26,8 @@ on the representation of statistical signals. Linear mean, variance, white noise
 
 - **Speech Coding**: Linear prediction: forward vs. backward, Psychoacoustics: the foundation for audio coding (e.g. MPEG audio).
 
-- **ASR 1, Fundamentals and Feature Extraction**:
+- **ASR 1-Fundamentals and Feature Extraction**:
+
+- **ASR 2-Hidden Markov Models**:
+
+- **Acoustic Human-Machine Interface**:
