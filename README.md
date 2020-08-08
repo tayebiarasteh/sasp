@@ -30,6 +30,7 @@ on the representation of statistical signals. Linear mean, variance, white noise
 
 - **ASR 1-Fundamentals and Feature Extraction**: in progress...
 
-- **ASR 2-Hidden Markov Models**: in progress...
+- **ASR 2-Hidden Markov Models**: Decoding feature vectors in order to obtain the text that was originally spoken.
+Isolated Word Recognition, Continuous Speech Recognition, Acoustic Modeling, Training of HMMs, Viterbi algorithm.
 
-- **Acoustic Human-Machine Interface**: in progress...
+- **Acoustic Human-Machine Interface**: Acoustic Source Localization, Beamforming, Acoustic Echo Cancellation
