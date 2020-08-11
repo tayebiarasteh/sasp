@@ -28,7 +28,7 @@ on the representation of statistical signals. Linear mean, variance, white noise
 
 - **Speech Coding**: Linear prediction: forward vs. backward, Psychoacoustics: the foundation for audio coding (e.g. MPEG audio).
 
-- **ASR 1-Fundamentals and Feature Extraction**: in progress...
+- **ASR 1-Fundamentals and Feature Extraction**: Cepstral Analysis and Liftering
 
 - **ASR 2-Hidden Markov Models**: Decoding feature vectors in order to obtain the text that was originally spoken.
 Isolated Word Recognition, Continuous Speech Recognition, Acoustic Modeling, Training of HMMs, Viterbi algorithm.
