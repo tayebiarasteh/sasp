@@ -1,9 +1,9 @@
 
-### By Soroosh Tayebi Arasteh
+### By [Soroosh Tayebi Arasteh](https://github.com/starasteh)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-This repository contains the programming exercises of the Speech and Audio Signal Processing course (SS20, Prof. Dr.-Ing. Walter Kellermann) 
+This repository contains the programming exercises of the Speech and Audio Signal Processing course (SS 2020, Prof. Dr.-Ing. Walter Kellermann) 
 offered by the [Chair of Multimedia Communications and Signal Processing (LMS)](https://www.lms.tf.fau.eu/) of the [Electrical Engineering Department](https://www.eei.tf.fau.de/) at [University of Erlangen-Nuremberg (FAU)](https://www.fau.eu/).
 
 
@@ -34,3 +34,5 @@ on the representation of statistical signals. Linear mean, variance, white noise
 Isolated Word Recognition, Continuous Speech Recognition, Acoustic Modeling, Training of HMMs, Viterbi algorithm.
 
 - **Acoustic Human-Machine Interface**: Acoustic Source Localization, Beamforming, Acoustic Echo Cancellation
+
+## In progress ....
