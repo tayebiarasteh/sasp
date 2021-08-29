@@ -1,7 +1,7 @@
 %Created on June 6, 2020.
 
 %@author: Soroosh Tayebi Arasteh <soroosh.arasteh@fau.de>
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function y = cclipper(x,eta)
 

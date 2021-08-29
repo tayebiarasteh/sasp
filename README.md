@@ -1,7 +1,7 @@
 # MATLAB Programming exercises of the Speech and Audio Signal Processing course
 
 
-### By [Soroosh Tayebi Arasteh](https://github.com/starasteh) | سروش طیبی آراسته
+### By [Soroosh Tayebi Arasteh](https://github.com/tayebiarasteh) | سروش طیبی آراسته
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 

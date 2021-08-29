@@ -1,6 +1,6 @@
 %Created on June 2016.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function [x,n] = impseq(n0,n1,n2)
 % Impulse signal

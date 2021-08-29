@@ -1,7 +1,7 @@
 %Created on June 10, 2020.
 
 %@author: Soroosh Tayebi Arasteh <soroosh.arasteh@fau.de>
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 
 %% 2.4.a) Long-Term and Short-Time Analysis
 clear
